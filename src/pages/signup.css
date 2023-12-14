@@ -1,0 +1,16 @@
+.react-tel-input {
+  width: 75% !important;
+  margin: 16px 0px;
+}
+.form-control {
+  width: 100% !important;
+}
+.tst {
+  background: rgb(255, 253, 251);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 253, 251, 1) 0%,
+    rgba(248, 248, 248, 1) 0%,
+    rgba(172, 192, 251, 1) 98%
+  );
+}
